@@ -1,0 +1,8 @@
+﻿ChatterBot==1.0.8
+chatterbot-corpus==1.2.0
+murmurhash==1.0.2
+scipy==1.5.2
+spacy==2.3.2
+srsly==1.0.2
+thinc==7.4.1
+
